@@ -29,3 +29,8 @@
 	font-family: sans-serrif;
 	border-width: 20px;
 }
+
+.glow{
+	border-style: outset;
+	border-color: #FFD6A5;
+}
